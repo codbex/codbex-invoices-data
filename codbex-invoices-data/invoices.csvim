@@ -12,9 +12,31 @@
       "version": "1.0"
     },
     {
+      "table": "CODBEX_SALESINVOICESTATUS_LANG",
+      "schema": "PUBLIC",
+      "file": "/codbex-invoices-data/sales-invoice-statuses-lang.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
       "table": "CODBEX_PURCHASEINVOICESTATUS",
       "schema": "PUBLIC",
       "file": "/codbex-invoices-data/purchase-invoice-statuses.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": "1.0"
+    },
+    {
+      "table": "CODBEX_PURCHASEINVOICESTATUS_LANG",
+      "schema": "PUBLIC",
+      "file": "/codbex-invoices-data/purchase-invoice-statuses-lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -34,9 +56,31 @@
       "version": ""
     },
     {
+      "table": "CODBEX_SALESINVOICETYPE_LANG",
+      "schema": "PUBLIC",
+      "file": "/codbex-invoices-data/sales-invoice-types-lang.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
       "table": "CODBEX_PURCHASEINVOICETYPE",
       "schema": "PUBLIC",
       "file": "/codbex-invoices-data/purchase-invoice-types.csv",
+      "header": true,
+      "useHeaderNames": true,
+      "delimField": ",",
+      "delimEnclosing": "\"",
+      "distinguishEmptyFromNull": true,
+      "version": ""
+    },
+    {
+      "table": "CODBEX_PURCHASEINVOICETYPE_LANG",
+      "schema": "PUBLIC",
+      "file": "/codbex-invoices-data/purchase-invoice-types-lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
