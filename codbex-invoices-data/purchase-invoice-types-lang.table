@@ -1,5 +1,5 @@
 {
-    "name": "CODBEX_PURCHASE_INVOICE_TYPES_LANG",
+    "name": "CODBEX_PURCHASEINVOICETYPE_LANG",
     "type": "TABLE",
     "columns": [
         {

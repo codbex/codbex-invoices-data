@@ -1,5 +1,5 @@
 {
-    "name": "CODBEX_SALES_INVOICE_TYPES_LANG",
+    "name": "CODBEX_SALESINVOICETYPE_LANG",
     "type": "TABLE",
     "columns": [
         {
