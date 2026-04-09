@@ -3,7 +3,7 @@
     {
       "table": "CODBEX_SALESINVOICESTATUS",
       "schema": "PUBLIC",
-      "file": "/codbex-invoices-data/sales-invoice-status/sales-invoice-statuses.csv",
+      "file": "/codbex-invoices-data/sales-invoice-status/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -15,7 +15,7 @@
     {
       "table": "CODBEX_SALESINVOICESTATUS_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-invoices-data/sales-invoice-status/sales-invoice-statuses-lang.csv",
+      "file": "/codbex-invoices-data/sales-invoice-status/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -27,7 +27,7 @@
     {
       "table": "CODBEX_PURCHASEINVOICESTATUS",
       "schema": "PUBLIC",
-      "file": "/codbex-invoices-data/purchase-invoice-status/purchase-invoice-statuses.csv",
+      "file": "/codbex-invoices-data/purchase-invoice-status/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -39,7 +39,7 @@
     {
       "table": "CODBEX_PURCHASEINVOICESTATUS_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-invoices-data/purchase-invoice-status/purchase-invoice-statuses-lang.csv",
+      "file": "/codbex-invoices-data/purchase-invoice-status/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -51,7 +51,7 @@
     {
       "table": "CODBEX_SALESINVOICETYPE",
       "schema": "PUBLIC",
-      "file": "/codbex-invoices-data/sales-invoice-type/sales-invoice-types.csv",
+      "file": "/codbex-invoices-data/sales-invoice-type/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -63,7 +63,7 @@
     {
       "table": "CODBEX_SALESINVOICETYPE_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-invoices-data/sales-invoice-type/sales-invoice-types-lang.csv",
+      "file": "/codbex-invoices-data/sales-invoice-type/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -75,7 +75,7 @@
     {
       "table": "CODBEX_PURCHASEINVOICETYPE",
       "schema": "PUBLIC",
-      "file": "/codbex-invoices-data/purchase-invoice-type/purchase-invoice-types.csv",
+      "file": "/codbex-invoices-data/purchase-invoice-type/data.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
@@ -87,7 +87,7 @@
     {
       "table": "CODBEX_PURCHASEINVOICETYPE_LANG",
       "schema": "PUBLIC",
-      "file": "/codbex-invoices-data/purchase-invoice-type/purchase-invoice-types-lang.csv",
+      "file": "/codbex-invoices-data/purchase-invoice-type/lang.csv",
       "header": true,
       "useHeaderNames": true,
       "delimField": ",",
